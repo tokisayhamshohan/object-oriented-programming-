@@ -1,0 +1,18 @@
+﻿CosmeticsList:
+Cosmetics Name= Sunsilk
+Exp Date= 12/14/26
+CompanyName= Unilever
+TotalQuantity= 50
+price=420.0
+CosmeticsList:
+Cosmetics Name= Lux
+Exp Date= 12/14/26
+CompanyName= Unilever
+TotalQuantity= 50
+price=80.0
+CosmeticsList:
+Cosmetics Name= Fogg
+Exp Date= 12/14/26
+CompanyName= Shohan
+TotalQuantity= 50
+price=500.0
